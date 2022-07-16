@@ -12,12 +12,12 @@ for each several readings.
 ### Installation
 
 Simply copy the `/purpleair` directory in to your config's
-`custom_components` directory (you may need to create it), restart Home
+`custom_components` directory (you may need to create it), add "purpleair:" to configuration.yaml, restart Home
 Assistant, and add the integration via the UI (it's simple!).
 
-To register a new purple air device:
+To register a new purple air device, under Settings -> Integrations:
 1. Add "Purple Air" Integration.
-2. Enter the IP address of your local purple air device
+2. Enter the IP address of your local purple air device.
 3. Give it a name.
 
 #### Current Sensors

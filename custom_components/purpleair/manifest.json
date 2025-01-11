@@ -1,17 +1,14 @@
 {
   "domain": "purpleair",
   "name": "PurpleAir (Local)",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "iot_class": "local_polling",
   "config_flow": true,
-  "documentation": "https://github.com/catchdave/home-assistant-purpleair",
+  "documentation": "https://github.com/offbyone/home-assistant-purpleair",
   "requirements": [],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
   "dependencies": [],
-  "codeowners": [
-    "@gibwar",
-    "@catchdave"
-  ]
+  "codeowners": ["@gibwar", "@catchdave", "@offbyone"]
 }
